@@ -1,0 +1,20 @@
+{
+  "name": "coffeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugeniy Kozub",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}

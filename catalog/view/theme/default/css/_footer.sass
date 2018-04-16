@@ -1,0 +1,296 @@
+footer
+  border: none
+  margin: 0
+  padding: 0
+.main-footer
+  background-color: #f8f8f8
+  .main-footer__wrapper
+    position: relative
+    overflow: hidden
+    min-height: 402px
+    width: 100%
+    background:  url(../img/footer-bg.png) no-repeat center bottom
+  .footer-action
+    padding-top: 125px
+    padding-left: 30px
+    width: 260px
+    color: #fff
+    font-size: 14px
+    font-family: "Roboto Light"
+    strong
+      font-size: 30px
+    a
+      margin-left: 35px
+      line-height: 22px
+      font-family: "Roboto Bold"
+      display: block
+      position: relative
+      color: #fff
+      &:after
+        position: absolute
+        content: ''
+        background: url(../img/action-arrow.png) no-repeat
+        width: 13px
+        height: 22px
+        right: -20px
+        top: 0
+        transition: .2s linear
+      &:hover, &:focus
+        text-decoration: none
+        color: #fff
+        &:after
+          right: -30px
+
+  .footer-action-pic__wrapper
+    overflow: hidden
+    width: 84px
+    height: 243px
+    position: absolute
+    left: 415px
+    bottom: -10px
+    transform: skewY(10deg)
+
+  .footer-action-pic
+    transform: skewY(-10deg)
+    object-fit: cover
+    width: 100%
+    height: 100%
+    margin-top: -10px
+
+  .main-footer__partners-title
+    font-size: 24px
+    font-family: "Roboto Black"
+    color: #73d3da
+    position: absolute
+    top: 50px
+    right: 43px
+    text-transform: uppercase
+
+  .main-footer__partners-wrapper
+    position: absolute
+    top: 155px
+    right: 115px
+    display: flex
+
+  .main-footer__partners-item
+    margin: 0 7px
+
+  .partners-bg
+    display: none
+    background: url(../img/partners-bg.png) no-repeat center
+
+  .main-footer__partners-title__mob
+    display: none
+    font-size: 24px
+    font-family: "Roboto Black"
+    color: #73d3da
+    position: absolute
+    top: 64px
+    left: 50%
+    transform: translateX(-50%)
+    text-transform: uppercase
+    width: 214px
+
+  .main-footer__partners-wrapper__mob
+    display: none
+    position: absolute
+    top: 166px
+    left: 50%
+    transform: translateX(-50%)
+
+.mfp-bg
+  background-color: #002642
+  opacity: 0.9
+
+.callback-popup
+  margin: 0 auto
+  width: 620px
+  position: relative
+  .mfp-close
+    &.callback-popup__main-close
+      opacity: 1
+      background: url(../img/close-btn.png) no-repeat
+      width: 56px
+      height: 56px
+      top: -50px
+      right: -30px
+    &.callback-popup__footer-close
+      opacity: 1
+      width: auto
+      height: auto
+      position: relative
+      color: #fff
+      font-size: 24px
+      font-family: "Roboto Light"
+      &:active
+        top: 0
+
+.callback-popup__body
+  position: relative
+  background-color: #fff
+  height: 270px
+  border-radius: 160px 20px 20px 20px/60px 20px 20px 20px
+
+.callback-popup__header
+  position: absolute
+  content: ''
+  background: url(../img/popup-header.png) no-repeat
+  width: 662px
+  height: 167px
+  left: -62px
+  top: -98px
+  padding-top: 63px
+
+.callback-popup__title
+  color: #20d8ff
+  text-transform: uppercase
+  font-size: 24px
+  font-family: "Roboto Light"
+  display: block
+  padding-left: 60px
+
+.callback-popup__subtitle
+  display: block
+  font-size: 14px
+  color: #fff
+  font-family: "Roboto Light"
+  margin-top: 18px
+  padding-left: 178px
+  position: relative
+  line-height: 14px
+  &:before
+    position: absolute
+    content: ''
+    width: 110px
+    height: 5px
+    border-radius: 5px
+    background-color: #ff0000
+    left: 60px
+    top: calc(50% - 2px)
+  strong
+    font-family: "Roboto Regular"
+    font-weight: 600
+
+.callback-popup__form
+  padding: 110px 45px 0
+
+.callback-popup__input-wrapper
+  margin: 0 20px 30px
+  position: relative
+
+.callback-popup__input
+  width: 100%
+  background-color: #f8f8f8
+  border-radius: 20px
+  border: none
+  padding: 0 22px
+  height: 40px
+  line-height: 41px
+  font-family: "Roboto Light"
+  color: #adadad
+  font-size: 18px
+  &::placeholder
+    color: #adadad
+    font-size: 18px
+    font-family: "Roboto Light"
+
+.callback-popup__form-footer
+  display: flex
+  justify-content: space-between
+  align-items: center
+  margin-top: 140px
+
+.callback-popup__btn
+  border: none
+  border-radius: 25px
+  background-color: #1edb56
+  text-align: center
+  width: 232px
+  height: 48px
+  line-height: 48px
+  color: #fff
+  font-family: "Roboto Light"
+  font-size: 22px
+  &:hover
+    background-color: #4ae176
+  &:active
+    background-color: #75e797
+
+.hidden-popup__title
+  display: none
+
+
+.static-footer
+  position: relative
+  background-color: #f8f8f8
+  height: 105px
+  overflow: hidden
+  padding: 0
+  margin: 0
+  .container-sm
+    position: relative
+
+  .static-footer__title
+    font-family: "Robika"
+    display: inline-block
+    font-size: 16px
+    color: #fff
+    background-color: #262455
+    padding-right: 20px
+    height: 40px
+    line-height: 40px
+    text-transform: uppercase
+    border-radius: 0 20px 20px 0
+    position: relative
+    padding-left: 165px
+    &:before
+      content: ''
+      position: absolute
+      background-color: #262455
+      height: 40px
+      line-height: 40px
+      width: 1000px
+      right: 100%
+    &:after
+      content: '.ua'
+      position: absolute
+      right: -30px
+      color: #262455
+
+  .static-footer__partners-title
+    color: #ececec
+    font-size: 87px
+    line-height: 67px
+    font-family: "Roboto Black"
+    text-transform: uppercase
+    padding-left: 165px
+
+  .static-footer__partners-wrapper
+    position: absolute
+    top: 0
+    right: 0
+
+  .static-footer__partners-item
+    float: left
+    padding: 0 15px
+    &:last-child
+      padding-right: 0
+
+.mobile-footer
+  display: none
+  height: 105px
+  line-height: 105px
+  background-color: #262455
+  .mobile-footer__inner
+    display: flex
+    justify-content: space-evenly
+    align-items: center
+  .mobile-footer__title
+    font-size: 14px
+    text-transform: uppercase
+    color: #fff
+    font-family: "Robika"
+  .mobile-footer__partner
+    width: 70px
+    img
+      width: 100%
