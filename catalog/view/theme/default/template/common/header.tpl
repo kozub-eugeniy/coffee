@@ -63,7 +63,7 @@
 <?php } ?>
 </head>
 <body class="<?php echo $class; ?>">
-<header>
+<header <?php if($home == $og_url) { echo 'class="main-header"';} else { echo 'class="static-header"'; } ?>>
     <nav class="top-menu">
         <div class="container">
             <ul class="top-menu__list">

@@ -1,0 +1,609 @@
+
+.category-main__wrapper
+  float: left
+  width: 100%
+  position: relative
+  overflow: hidden
+  margin-left: -15px
+  margin-right: -45px
+
+.filter-sidebar__wrapper
+  z-index: 2
+
+.filter-sidebar__title
+  font-size: 18px
+  text-transform: uppercase
+  color: #1edb56
+  font-family: "Roboto Bold"
+  margin-left: 20px
+  &.sticky
+    display: none
+    position: absolute
+    transform: rotate(-90deg)
+    width: 170px
+    height: 56px
+    left: -67px
+    z-index: 1
+    top: 160px
+    &:after
+      position: absolute
+      content: ''
+      width: 80px
+      height: 80px
+      border-radius: 100%
+      background-color: #b6f0fc
+      left: 0
+      top: 0
+      left: 40px
+      top: -45px
+      z-index: -1
+
+.filter-sidebar
+  width: 100%
+  border-radius: 20px
+  padding: 20px
+  margin-top: 20px
+  position: relative
+  background-color: #1edb56
+  z-index: 1
+  &:before
+    position: absolute
+    content: ''
+    background: url(../img/sidebar-bg-top.png) no-repeat
+    width: 148px
+    height: 103px
+    right: 0
+    top: 0
+    z-index: -1
+  &:after
+    position: absolute
+    content: ''
+    background: url(../img/sidebar-bg-bottom.png) no-repeat
+    width: 150px
+    height: 73px
+    left: 0
+    bottom: 0
+    z-index: -1
+
+.filter-sidebar__section-title
+  font-size: 16px
+  color: #fff
+  font-family: "Roboto Bold"
+  margin-bottom: 16px
+  display: block
+
+.filter-sidebar__section
+  padding-bottom: 20px
+  &.range
+    padding-bottom: 30px
+
+.filter-sidebar__hide
+  position: absolute
+  color: #fff
+  font-size: 16px
+  font-family: "Roboto Bold"
+  top: 20px
+  right: 20px
+  display: none
+  &:before
+    content: ''
+    position: absolute
+    background: url(../img/sidebar-arrow.png) no-repeat
+    width: 9px
+    height: 14px
+    left: -18px
+    top: 3px
+
+.price-range
+  width: 100%
+
+.price-inputs
+  display: flex
+  align-items: center
+  justify-content: space-between
+  margin-bottom: 32px
+  span
+    color: #fff
+    font-size: 16px
+    font-family: "Roboto light"
+
+.price-inputs__inner
+  display: flex
+  width: 205px
+  height: 34px
+  background: -moz-linear-gradient(left, rgba(1,255,143,1) 0%, rgb(234, 255, 2) 100%)
+  background: -webkit-linear-gradient(left, rgba(1,255,143,1) 0%,rgb(234, 255, 2) 100%)
+  background: linear-gradient(to right, rgba(1,255,143,1) 0%,rgb(234, 255, 2) 100%)
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01ff8f', endColorstr='#b8ff0a',GradientType=1 )
+  border-radius: 20px
+  input
+    width: 50%
+    height: 34px
+    line-height: 34px
+    background-color: transparent
+    border: none
+    color: #22ca54
+    font-size: 16px
+    font-family: "Roboto light"
+    padding: 0 18px
+    &:first-child
+      text-align: left
+    &:last-child
+      text-align: right
+
+.ui-slider
+  position: relative
+  .ui-slider-handle
+    position: absolute
+    z-index: 2
+    width: 34px
+    height: 34px
+    background-color: rgb(234, 255, 2)
+    border-radius: 100%
+    border: 9px solid #1acc4f
+    cursor: pointer
+    &.first
+      background-color: rgba(1,255,143,1)
+  .ui-slider-range
+    position: absolute
+    z-index: 3
+    font-size: .7em
+    display: block
+    border: 0
+    overflow: hidden
+
+.ui-slider-horizontal
+  height: 4px
+  .ui-slider-handle
+    top: -15px
+    margin-left: -17px
+    &.first
+      padding-left: 17px
+  .ui-slider-range
+    top: 0
+    height: 100%
+  .ui-slider-range-min
+    left: 0
+  .ui-slider-range-max
+    right: 0
+
+.ui-widget-content
+  background: #1acc4f
+
+.ui-widget-header
+  background: -moz-linear-gradient(left, rgba(1,255,143,1) 0%, rgb(234, 255, 2) 100%)
+  background: -webkit-linear-gradient(left, rgba(1,255,143,1) 0%,rgb(234, 255, 2) 100%)
+  background: linear-gradient(to right, rgba(1,255,143,1) 0%,rgb(234, 255, 2) 100%)
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01ff8f', endColorstr='#b8ff0a',GradientType=1 )
+
+.ui-corner-all
+  -moz-border-radius: 4px
+  -webkit-border-radius: 4px
+  border-radius: 4px
+
+.price-inputs
+  margin-top: 20px
+  font-size: 14px
+
+.sliderValue
+  width: 70px
+  height: 30px
+  border: 1px solid #ccc
+  text-align: center
+
+.filter
+  margin-bottom: 12px
+
+.filter-checkbox
+  display: none
+  + label
+    display: block
+    height: 20px
+    line-height: 20px
+    cursor: pointer
+    position: relative
+    padding-left: 34px
+    color: #16b646
+    font-size: 16px
+    font-family: "Roboto light"
+    &:after
+      position: absolute
+      content: ''
+      width: 20px
+      height: 20px
+      background-color: #26e55e
+      border-radius: 4px
+      left: 0
+    &:hover
+      &:after
+        background-color: #15d04c
+  &:checked + label
+    color: #fff
+    &:after
+      background: url(../img/checkmark.png) no-repeat 2px 4px
+
+.filter-apply__wrapper
+  height: 120px
+
+.filter-apply
+  height: 120px
+  width: 254px
+  border-radius: 15px
+  background-color: #0090ff
+  position: absolute
+  z-index: 2
+  padding: 30px 0 30px 35px
+  color: #fff
+  box-shadow: 6px 0px 20px 1px rgba(0, 144, 255, 0.4)
+  -webkit-box-shadow: 6px 0px 20px 1px rgba(0, 144, 255, 0.4)
+  &:after
+    position: absolute
+    content: ''
+    background: url(../img/filter-apply.png) no-repeat
+    width: 62px
+    height: 120px
+    top: 0
+    right: -48px
+    z-index: 3
+    filter: drop-shadow(10px 0px 20px rgba(0, 144, 255, 0.4))
+    -webkit-filter: drop-shadow(10px 0px 20px rgba(0, 144, 255, 0.4))
+
+.filter-apply__text
+  font-size: 18px
+  font-family: "Roboto light"
+  margin-bottom: 5px
+
+.filter-apply__show
+  font-size: 18px
+  font-family: "Roboto Bold"
+  text-transform: uppercase
+  position: relative
+  cursor: pointer
+  &:after
+    position: absolute
+    content: ''
+    background: url(../img/filter-arrow.png) no-repeat
+    width: 39px
+    height: 14px
+    top: calc(50% - 7px)
+    right: -50px
+    transition: .2s linear
+  &:hover, &:focus, &:active
+    &:after
+      right: -60px
+
+.filter-separator
+  display: block
+  border-radius: 4px
+  height: 4px
+  width: 100%
+  background-color: #1acc4f
+  margin-bottom: 20px
+
+.filter-apply__btn
+  width: 146px
+  height: 34px
+  line-height: 34px
+  border-radius: 20px
+  border: none
+  background-color: #fff
+  text-align: center
+  text-transform: uppercase
+  color: #1edb56
+  font-size: 14px
+  font-family: "Roboto Medium"
+  margin: 20px auto 0
+  display: block
+
+div.fancy-select
+  &.filter-select
+    float: left
+    div.trigger
+      width: 175px
+      background-color: transparent
+      padding: 22px 34px 0 16px
+      font-size: 16px
+      color: #8a8a8a
+      font-family: "Roboto light"
+      line-height: 16px
+      height: 46px
+      overflow: visible
+      &:after
+        display: none
+    ul.options
+      li
+        padding: 0 16px
+
+.filter-select__title
+  font-size: 15px
+  font-family: "Roboto light"
+  color: #cbcbcb
+  position: absolute
+  display: block
+  padding-right: 15px
+  top: 0px
+  left: 16px
+  &:after
+    position: absolute
+    content: ''
+    background: url(../img/dropdown-arrow-category.png) no-repeat
+    width: 12px
+    height: 8px
+    top: calc(50% - 4px)
+    right: 0
+
+.top-filter__wrapper
+  float: right
+
+.category-view
+  display: none
+  &.active
+    display: block
+
+.filter-view
+  margin-left: 25px
+  float: left
+  padding-right: 10px
+
+.filter-view__item
+  cursor: pointer
+  margin-left: 6px
+  width: 36px
+  height: 36px
+  float: left
+  border: none
+  outline: none
+  text-shadow: none
+  &.list
+    background: url(../img/sort-icon__list.png) no-repeat
+  &.grid
+    background: url(../img/sort-icon__grid.png) no-repeat
+  &.active
+    background-position: 0 -36px
+
+.category-item
+  margin-bottom: 60px
+
+.item-specs
+  background-color: #edfff2
+  display: flex
+  flex-direction: column
+  justify-content: space-evenly
+  align-items: center
+  margin-left: -15px
+  margin-right: -15px
+  height: 0px
+  overflow: hidden
+  transition: .8s linear
+  &.active
+    height: 210px
+    overflow: visible
+    padding: 8px 0
+
+.item-specs__info
+  padding-right: 0
+  padding-left: 18px
+  margin: 4px 0
+  width: 180px
+  display: flex
+  justify-content: flex-start
+  align-items: center
+
+.item-specs__info-title
+  font-size: 13px
+  color: #31cf60
+  font-family: "Roboto Light"
+
+.item-specs__info-icon
+  width: 16px
+  height: 16px
+  margin-right: 10px
+  &.material
+    background: url(../img/specs/material-icon.png) no-repeat
+  &.width
+    background: url(../img/specs/width-icon.png) no-repeat
+  &.thickness
+    background: url(../img/specs/thickness-icon.png) no-repeat
+  &.diameter
+    background: url(../img/specs/diameter-icon.png) no-repeat
+  &.size
+    background: url(../img/specs/size-icon.png) no-repeat
+  &.height
+    background: url(../img/specs/height-icon.png) no-repeat
+  &.volume
+    background: url(../img/specs/volume-icon.png) no-repeat
+
+.more-items
+  display: none
+
+.more-items__btn
+  clear: both
+  position: relative
+  font-size: 20px
+  width: 160px
+  margin: 0 auto
+  line-height: 46px
+  color: #19caf0
+  font-family: "Roboto Medium"
+  text-transform: uppercase
+  display: block
+  text-align: center
+  cursor: pointer
+  &:before
+    content: ''
+    position: absolute
+    background: url(../img/round-arrow.png) no-repeat
+    width: 46px
+    height: 46px
+    transition: .3s linear
+    left: -55px
+    top: 0
+  &:hover
+    &:before
+      transform: rotate(180deg)
+
+.category-wrapper
+  padding-bottom: 120px
+
+.catalog-list-item
+  margin-bottom: 60px
+
+.list-item
+  background-color: #fff
+  border-radius: 15px
+  padding: 25px 0 25px 5px
+  position: relative
+  transition: .4s
+  display: flex
+  &.sale
+    .hidden-price
+      display: block
+    .item-label
+      &.sale
+        display: block
+
+.item-label
+  position: absolute
+  display: none
+  &.sale
+    display: block
+    top: -30px
+    left: 0px
+    width: 84px
+    height: 57px
+    background: url(../img/label-sale.png) no-repeat
+
+.item-pic__wrapper
+  width: 100%
+  height: 225px
+  text-align: center
+
+.item-pic
+  width: 100%
+  height: 100%
+  object-fit: contain
+
+.item-title__wrapper
+  display: flex
+  align-items: center
+  justify-content: center
+  height: 55px
+  margin-bottom: 15px
+
+.item-title
+  padding-top: 15px
+  font-size: 14px
+  line-height: 22px
+  font-family: "Roboto Bold"
+  color: #5377b9
+  text-transform: uppercase
+  text-align: center
+  overflow: hidden
+  max-height: 60px
+  span
+    display: block
+    font-family: "Roboto Light"
+  &:hover, &:focus
+    text-decoration: none
+    color: #5377b9
+
+.item-price-wrapper
+  display: flex
+  justify-content: center
+  align-items: baseline
+  margin-top: 14px
+
+.hidden-price
+  font-family: "Roboto Light"
+  font-size: 16px
+  text-decoration: line-through
+  color: #cccbcb
+  padding-right: 4px
+  display: none
+
+.item-price
+  font-family: "Roboto Medium"
+  font-size: 24px
+  color: #20d8ff
+
+.item-price-val
+  font-family: "Roboto Light"
+  font-size: 16px
+
+.item-buy-wrapper
+  display: flex
+  justify-content: space-between
+  align-items: center
+  margin-top: 10px
+
+.item-compare
+  display: none
+  + label
+    display: block
+    width: 45px
+    height: 34px
+    cursor: pointer
+    background-color: #fafafa
+    border-radius: 20px
+    position: relative
+    &:after
+      position: absolute
+      content: ''
+      background: url(../img/item-compare-icon.png) no-repeat
+      width: 20px
+      height: 23px
+      left: calc(50% - 10px)
+      top: calc(50% - 11px)
+    &:hover
+      background-color: #a2ebff
+      &:after
+        background-position: -20px 0
+  &:checked + label
+    background-color: #a2ebff
+    &:after
+      background-position: -20px 0
+
+.item-bookmark
+  display: none
+  + label
+    display: block
+    width: 45px
+    height: 34px
+    cursor: pointer
+    background-color: #fafafa
+    border-radius: 20px
+    position: relative
+    &:after
+      position: absolute
+      content: ''
+      background: url(../img/item-bookmark-icon.png) no-repeat
+      width: 16px
+      height: 23px
+      left: calc(50% - 8px)
+      top: calc(50% - 11px)
+    &:hover
+      background-color: #a2ebff
+      &:after
+        background-position: -16px 0
+  &:checked + label
+    background-color: #a2ebff
+    &:after
+      background-position: -16px 0
+
+.item-buy-btn
+  font-size: 14px
+  text-transform: uppercase
+  font-family: "Roboto Medium"
+  color: #fff
+  text-align: center
+  height: 34px
+  line-height: 34px
+  width: 146px
+  border: none
+  border-radius: 15px
+  background-color: #1edb56
+  box-shadow: 0px 5px 21px 0px rgba(2, 192, 12, 0.35)
+  &:hover
+    opacity: .8
+  &:active
+    opacity: .6

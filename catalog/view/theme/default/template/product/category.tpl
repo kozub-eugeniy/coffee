@@ -10,7 +10,233 @@
         </ul>
     </div>
 </nav>
-<div class="row"><?php echo $column_left; ?>
+<main class="main-content">
+    <div class="container">
+        <div class="page-title__wrapper">
+            <span class="page-title azure"><?php echo $heading_title; ?></span>
+            <span class="page-title__bg">
+                <span>с</span>
+                <span>е</span>
+                <span>м</span>
+                <span>е</span>
+                <span>н</span>
+                <span>а</span>
+                <span> </span>
+                <span>к</span>
+                <span>о</span>
+                <span>н</span>
+                <span>о</span>
+                <span>п</span>
+                <span>л</span>
+                <span>и</span>
+            </span>
+        </div>
+    </div>
+    <div class="category-main__wrapper">
+        <span class="filter-sidebar__title sticky">Фильтр товаров</span>
+        <div class="container">
+            <div class="col-sm-3 filter-sidebar__wrapper">
+                <span class="filter-sidebar__title">Фильтр товаров</span>
+                <aside class="filter-sidebar">
+                    <span class="filter-sidebar__hide">Свернуть фильтр</span>
+                    <div class="filter-sidebar__section range">
+                        <span class="filter-sidebar__section-title">Цена</span>
+                        <div class="price-inputs">
+                            <div class="price-inputs__inner">
+                                <input type="text" class="sliderValue val1" data-index="0" value="25" />
+                                <input type="text" class="sliderValue val2" data-index="1" value="1500" />
+                            </div>
+                            <span> грн </span>
+                        </div>
+                        <div class="price-range"></div>
+                    </div>
+                    <div class="filter-sidebar__section">
+                        <span class="filter-sidebar__section-title">Уровень ТГК</span>
+                        <ul class="filter-sidebar__checkbox-list">
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk1">
+                                <label for="chk1">Очень высокий</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk2">
+                                <label for="chk2">Высокий</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk3">
+                                <label for="chk3">Низкий</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk4">
+                                <label for="chk4">Средний</label>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="filter-sidebar__section">
+                        <div class="filter-apply__wrapper">
+                            <div class="filter-apply">
+                                <div class="filter-apply__text">Вы выбрали <span class="filter-apply__counter">25</span> товаров</div>
+                                <span class="filter-apply__show">Показать</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="filter-sidebar__section">
+                        <span class="filter-sidebar__section-title">Тип растения</span>
+                        <ul class="filter-sidebar__checkbox-list">
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk5">
+                                <label for="chk5">Сатива</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk6">
+                                <label for="chk6">Индика</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk7">
+                                <label for="chk7">Преимущественно Сатива</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk8">
+                                <label for="chk8">Преимущественно Индика</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk9">
+                                <label for="chk9">Рудералис</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk10">
+                                <label for="chk10">Рудералис/Сатива</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk11">
+                                <label for="chk11">Рудералис/Индика</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk12">
+                                <label for="chk12">Сатива/Индика</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk13">
+                                <label for="chk13">Сатива/Индика/Рудералис</label>
+                            </li>
+                        </ul>
+                    </div>
+                    <span class="filter-separator"></span>
+                    <div class="filter-sidebar__section">
+                        <span class="filter-sidebar__section-title">Урожайность</span>
+                        <ul class="filter-sidebar__checkbox-list">
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk14">
+                                <label for="chk14">Низкая</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk15">
+                                <label for="chk15">Средняя</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk16">
+                                <label for="chk16">Высокая</label>
+                            </li>
+                        </ul>
+                    </div>
+                    <span class="filter-separator"></span>
+                    <div class="filter-sidebar__section">
+                        <span class="filter-sidebar__section-title">Высота Растения</span>
+                        <ul class="filter-sidebar__checkbox-list">
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk17">
+                                <label for="chk17">Низкая</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk18">
+                                <label for="chk18">Средняя</label>
+                            </li>
+                            <li class="filter">
+                                <input class="filter-checkbox" type="checkbox" name="" id="chk19">
+                                <label for="chk19">Высокая</label>
+                            </li>
+                        </ul>
+                    </div>
+                    <button class="filter-apply__btn">Применить</button>
+                </aside>
+            </div>
+            <div class="col-sm-9 category-wrapper">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="top-filter__wrapper">
+                            <div class="fancy-select filter-select">
+                                <span class="filter-select__title">Показаны товары</span>
+                                <select class="filter-select-list" id="input-sort" onchange="location = this.value;">
+                                    <?php foreach ($sorts as $sorts) { ?>
+                                    <?php if ($sorts['value'] == $sort . '-' . $order) { ?>
+                                    <option value="<?php echo $sorts['href']; ?>" selected="selected"><?php echo $sorts['text']; ?></option>
+                                    <?php } else { ?>
+                                    <option value="<?php echo $sorts['href']; ?>"><?php echo $sorts['text']; ?></option>
+                                    <?php } ?>
+                                    <?php } ?>
+                                </select>
+                            </div>
+                            <?php if ($products) { ?>
+                            <div class="filter-view">
+                                <button type="button" id="list-view" class="filter-view__item list" data-toggle="tooltip"
+                                        title="<?php echo $button_list; ?>"></button>
+                                <button type="button" id="grid-view" class="filter-view__item grid active" data-toggle="tooltip"
+                                        title="<?php echo $button_grid; ?>"></button>
+                            </div>
+                            <?php } ?>
+                        </div>
+                    </div>
+                </div>
+                <div id="products-category" class="row">
+                    <?php foreach ($products as $product) { ?>
+                    <div class="product-list col-sm-4 category-item">
+                        <div class="item">
+                            <?php if ($product['price'] && $product['special']) { ?>
+                                <span class="item-label sale"></span>
+                            <?php } ?>
+                            <div class="item-pic__wrapper">
+                                <img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="item-pic"/>
+                            </div>
+                            <div class="item-title__wrapper">
+                                <a class="item-title" href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a>
+                            </div>
+                            <?php if ($product['price']) { ?>
+                                <div class="item-price-wrapper">
+                                    <?php if (!$product['special']) { ?>
+                                        <div class="item-price"><?php echo $product['price']; ?></div>
+                                    <?php } else { ?>
+                                        <div class="hidden-price"><?php echo $product['price']; ?></div>
+                                        <div class="item-price"><?php echo $product['special']; ?></div>
+                                    <?php } ?>
+                                </div>
+                            <?php } ?>
+                            <div class="item-buy-wrapper">
+                                <div class="item-compare-wrapper">
+                                    <input class="item-compare" type="checkbox" name="compare" id="c<?php echo $product['product_id']; ?>">
+                                    <label class="compare-label" for="c<?php echo $product['product_id']; ?>" title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product['product_id']; ?>');"></label>
+                                </div>
+                                <button class="item-buy-btn" onclick="cart.add('<?php echo $product['product_id']; ?>');">Купить</button>
+                                <div class="item-bookmark-wrapper">
+                                    <input class="item-bookmark" type="checkbox" name="bookmark" id="b<?php echo $product['product_id']; ?>">
+                                    <label class="bookmark-label" for="b<?php echo $product['product_id']; ?>" title="<?php echo $button_wishlist; ?>" onclick="wishlist.add('<?php echo $product['product_id']; ?>');"></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <?php } ?>
+                </div>
+                <div class="row">
+                    <div class="text-decription bottom">
+                        <?php  echo $description; ?>
+                    </div>
+                    <span class="read-more">Читать полностью</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<!--
+<div class="row">
+    <?php echo $column_left; ?>
     <?php if ($column_left && $column_right) { ?>
     <?php $class = 'col-sm-6'; ?>
     <?php } elseif ($column_left || $column_right) { ?>
@@ -23,8 +249,10 @@
         <?php if ($thumb || $description) { ?>
         <div class="row">
             <?php if ($thumb) { ?>
-            <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>"
-                                       title="<?php echo $heading_title; ?>" class="img-thumbnail"/></div>
+            <div class="col-sm-2">
+                <img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>"
+                     title="<?php echo $heading_title; ?>" class="img-thumbnail"/>
+            </div>
             <?php } ?>
             <?php if ($description) { ?>
             <div class="col-sm-10"><?php echo $description; ?></div>
@@ -109,9 +337,12 @@
             <?php foreach ($products as $product) { ?>
             <div class="product-layout product-list col-xs-12">
                 <div class="product-thumb">
-                    <div class="image"><a href="<?php echo $product['href']; ?>"><img
-                                    src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>"
-                                    title="<?php echo $product['name']; ?>" class="img-responsive"/></a></div>
+                    <div class="image">
+                        <a href="<?php echo $product['href']; ?>">
+                            <img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>"
+                                 title="<?php echo $product['name']; ?>" class="img-responsive"/>
+                        </a>
+                    </div>
                     <div>
                         <div class="caption">
                             <h4><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></h4>
@@ -175,4 +406,5 @@
         <?php echo $content_bottom; ?></div>
     <?php echo $column_right; ?></div>
 </div>
+-->
 <?php echo $footer; ?>
