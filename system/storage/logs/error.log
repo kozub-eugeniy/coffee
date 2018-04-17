@@ -1264,3 +1264,644 @@
 2018-04-16 21:12:58 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
 2018-04-16 21:12:58 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
 2018-04-16 21:12:58 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:18:34 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:30:11 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:32:26 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:38:38 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 34
+2018-04-17 8:39:00 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 34
+2018-04-17 8:39:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 34
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:39:29 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 8:54:23 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 8:54:23 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 8:54:23 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 8:54:23 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 8:56:25 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 8:56:25 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 8:56:25 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 8:56:25 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:13:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:13:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:13:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:13:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:16:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:16:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:16:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:16:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:18:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:18:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:18:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:18:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:20:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:20:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:20:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:20:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:24:03 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:24:03 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:24:03 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:24:03 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:25:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:25:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:25:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:25:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:26:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:26:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:26:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:26:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:27:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:27:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:27:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:27:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:28:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:28:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:28:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:28:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:28:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:28:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:28:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:28:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:35:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:40:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:00 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:41:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:48:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:50:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 509
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 11:54:41 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:10:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:12:10 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 523
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:24:08 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:28:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:30:26 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 524
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined index: $attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:48:55 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Use of undefined constant attribute - assumed 'attribute' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Warning:  Illegal string offset 'attribute_id' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined index: a in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined index: attribute['attribute_id'] in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 82
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:55:53 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined index: $id in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 83
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:58:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 12:59:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 527
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 13:00:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:24 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 16:58:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:01:28 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:01 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:07:13 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 526
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 553
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 553
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 553
+2018-04-17 17:17:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 553
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:22:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:46 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:32:46 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:32:46 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:32:46 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:32:46 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:32:54 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'value' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 310
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'href' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:35 - PHP Warning:  Illegal string offset 'text' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\category.tpl on line 314
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:38:39 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 591
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 596
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 596
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 596
+2018-04-17 17:41:38 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 596
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:43:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:44:40 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 598
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:47:47 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:48:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:50:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:52:57 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:55:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:56:48 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 17:58:15 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 18:00:17 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 645
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:02:32 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 648
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 648
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 648
+2018-04-17 18:04:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 648
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:06:50 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 646
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:10:20 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: login in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 172
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:11:42 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:13:35 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:15:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:18:43 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:19:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:20:09 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 639
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 114
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 115
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:18 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 114
+2018-04-17 18:38:37 - PHP Notice:  Use of undefined constant price - assumed 'price' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 115
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:37 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:38:52 - PHP Notice:  Use of undefined constant special - assumed 'special' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 114
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:38:52 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:39:44 - PHP Notice:  Use of undefined constant special - assumed 'special' in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 114
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:39:44 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:40:31 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:24 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:44:36 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 684
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 684
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 684
+2018-04-17 18:46:19 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 684
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:48:30 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 37
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 38
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 42
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: product in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 43
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685
+2018-04-17 18:56:22 - PHP Notice:  Undefined variable: text_count in D:\OpenServer\OpenServer\domains\ruopen.lh\catalog\view\theme\default\template\product\product.tpl on line 685

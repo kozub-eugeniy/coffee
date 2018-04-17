@@ -189,7 +189,7 @@
                 <div id="products-category" class="row">
                     <?php foreach ($products as $product) { ?>
                     <div class="product-list col-sm-4 category-item">
-                        <div class="item">
+                        <div class="item <?php if ($product['price'] && $product['special']) { echo 'sale'; } ?>">
                             <?php if ($product['price'] && $product['special']) { ?>
                                 <span class="item-label sale"></span>
                             <?php } ?>
