@@ -173,7 +173,7 @@
 <script src="catalog/view/theme/default/js/slick.min.js" type="text/javascript"></script>
 <script src="catalog/view/theme/default/js/selectize.js" type="text/javascript"></script>
 <script src="catalog/view/theme/default/js/main.js" type="text/javascript"></script>
-<?php if($home == $og_url){ ?>
+<?php if($home == $og_url || $contact){ ?>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfBB28buwftVCOxMkFxewMtSP7KkwjZxo&callback=initMap"></script>
 <?php } ?>
 </body>
