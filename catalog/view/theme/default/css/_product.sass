@@ -404,3 +404,186 @@
   font-size: 14px
   color: #9e9e9e
   font-family: "Roboto Light"
+
+
+.compare-wrapper
+  padding: 10px 70px 110px
+  position: relative
+
+.compare-params
+  position: absolute
+  top: 410px
+  font-size: 12px
+  color: #adadad
+  line-height: 27px
+  left: 10px
+  li
+    &:last-child
+      margin-top: 20px
+
+.compare-slider
+  .slick-list
+    padding-top: 30px
+  .arrow-left
+    position: absolute
+    content: ''
+    background: url(../img/compare-arr-left.png) no-repeat
+    width: 29px
+    height: 48px
+    left: -65px
+    top: 115px
+    cursor: pointer
+    z-index: 3
+  .arrow-right
+    position: absolute
+    content: ''
+    background: url(../img/compare-arr-right.png) no-repeat
+    width: 28px
+    height: 48px
+    right: -65px
+    top: 115px
+    cursor: pointer
+    z-index: 3
+
+.compare-item
+  .item-compare-wrapper
+    display: none
+
+.compare-item-remove
+  position: absolute
+  top: -30px
+  right: 0
+  padding-right: 20px
+  font-size: 14px
+  text-transform: uppercase
+  cursor: pointer
+  color: #ff0000
+  font-family: "Roboto Medium"
+  &:after
+    content: ''
+    position: absolute
+    background: url(../img/remove-slide.png) no-repeat
+    width: 10px
+    height: 10px
+    right: 0
+    top: calc(50% - 6px)
+
+.item-specsifications
+  background-color: #edfff2
+  display: flex
+  flex-direction: column
+  justify-content: space-evenly
+  align-items: center
+  margin-left: -15px
+  margin-right: -15px
+  height: 210px
+  padding: 8px 0
+
+.show-compare__description
+  margin-top: 10px
+  font-size: 11.5px
+  line-height: 27px
+  color: #1edb56
+  position: relative
+  text-transform: uppercase
+  font-family: "Roboto Medium"
+  cursor: pointer
+  display: block
+  width: 120px
+  left: calc(50% - 50px)
+  &:before
+    content: ''
+    position: absolute
+    background: url(../img/round-arrow-sm.png) no-repeat
+    width: 27px
+    height: 27px
+    transition: .3s linear
+    left: -30px
+  &:hover
+    &:before
+      transform: rotate(180deg)
+
+.text-decription
+  font-size: 14px
+  color: #9e9e9e
+  height: 105px
+  overflow: hidden
+  position: relative
+  font-family: "Roboto Light"
+  padding: 15px 20px 30px
+  height: 105px
+  overflow: hidden
+  transition: .2s linear
+  &.bottom
+    margin-top: 40px
+    height: 176px
+  &.item-description__wrapper
+    padding: 15px 0 30px
+    height: 190px
+    &:after
+      background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, #fff 100%)
+      background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, #fff 100%)
+      background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, #fff 100%)
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 )
+    &.active
+      &:after
+        display: none
+  &.active
+    overflow: visible
+    height: auto
+    &:after
+      display: none
+  &:after
+    position: absolute
+    content: ''
+    width: 100%
+    height: 60px
+    bottom: 0
+    left: 0
+    background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgb(248, 248, 248) 100%)
+    background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgb(248, 248, 248) 100%)
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgb(248, 248, 248) 100%)
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#f8f8f8',GradientType=0 )
+  strong
+    font-family: "Roboto Bold"
+  ul
+    padding-left: 16px
+  li
+    list-style-type: disc
+  a
+    color: #313131
+  h1
+    font-size: 24px
+    margin: 0
+    line-height: 24px
+
+.read-more
+  position: relative
+  clear: both
+  font-size: 14px
+  width: 146px
+  line-height: 30px
+  color: #19caf0
+  font-family: "Roboto Medium"
+  text-transform: uppercase
+  display: block
+  text-align: center
+  cursor: pointer
+  left: calc(50% - 70px)
+  margin-bottom: 15px
+  &:before
+    content: ''
+    position: absolute
+    background: url(../img/round-arrow.png) no-repeat
+    background-size: cover
+    width: 30px
+    height: 30px
+    transition: .3s linear
+    left: -38px
+  &:hover
+    &:before
+      transform: rotate(180deg)
+
+body.product-compare
+  .main-content
+    min-height: calc(100vh - 445px)

@@ -74,15 +74,15 @@
                         <?php if ($attribute_groups) { ?>
                             <?php foreach ($attribute_groups as $attribute_group) { ?>
                                 <?php foreach ($attribute_group['attribute'] as $attribute) { ?>
-                               <?php
-                               $id = $attribute['attribute_id'];
-                               $icons = array(22 => 'material', 20 => 'width', 11 => 'thickness', 26 => 'diameter', 30 => 'size', 21 => 'height', 24 => 'volume'); ?>
+                                   <?php
+                                   $id = $attribute['attribute_id'];
+                                   $icons = array(22 => 'material', 20 => 'width', 11 => 'thickness', 26 => 'diameter', 30 => 'size', 21 => 'height', 24 => 'volume'); ?>
                                     <div class="product-info__specs-item col-sm-3">
                                         <!--<i><?php echo $attribute['name']; ?></i><i class="product-info__specs-icon material"></i>-->
                                         <i class="product-info__specs-icon <?php echo $icons[$id]; ?>"></i>
                                         <span class="product-info__specs-item-title"><?php echo $attribute['text']; ?></span>
                                     </div>
-                        <?php } ?>
+                                <?php } ?>
                             <?php } ?>
                         <?php } ?>
                     </div>
