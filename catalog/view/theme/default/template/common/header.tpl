@@ -330,7 +330,7 @@
                 <li class="shop-menu__item">
                     <a class="shop-menu__link" href="<?php echo $about; ?>">О нас</a>
                     <ul class="shop-submenu">
-                        <li class="shop-submenu__item"><a href="">Отзывы о магазине</a></li>
+                        <li class="shop-submenu__item"><a href="<?php echo $about_reviews; ?>">Отзывы о магазине</a></li>
                         <li class="shop-submenu__item"><a href="">Связаться с нами</a></li>
                     </ul>
                 </li>

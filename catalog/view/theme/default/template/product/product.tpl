@@ -37,7 +37,6 @@
                     <input class="item-compare" type="checkbox" name="compare" id="c<?php echo $product['product_id']; ?>">
                     <label class="compare-label" for="c<?php echo $product['product_id']; ?>" title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product_id; ?>');"></label>
                 </div>
-                <!--<button class="item-buy-btn" onclick="cart.add('<?php echo $product_id; ?>');">Купить</button>-->
                 <div class="item-bookmark-wrapper">
                     <input class="item-bookmark" type="checkbox" name="bookmark" id="b<?php echo $product['product_id']; ?>">
                     <label class="bookmark-label" for="b<?php echo $product['product_id']; ?>" title="<?php echo $button_wishlist; ?>" onclick="wishlist.add('<?php echo $product_id; ?>');"></label>
@@ -78,7 +77,6 @@
                                    $id = $attribute['attribute_id'];
                                    $icons = array(22 => 'material', 20 => 'width', 11 => 'thickness', 26 => 'diameter', 30 => 'size', 21 => 'height', 24 => 'volume'); ?>
                                     <div class="product-info__specs-item col-sm-3">
-                                        <!--<i><?php echo $attribute['name']; ?></i><i class="product-info__specs-icon material"></i>-->
                                         <i class="product-info__specs-icon <?php echo $icons[$id]; ?>"></i>
                                         <span class="product-info__specs-item-title"><?php echo $attribute['text']; ?></span>
                                     </div>
@@ -86,7 +84,7 @@
                             <?php } ?>
                         <?php } ?>
                     </div>
-                    <div class="product-info__buy option2">
+                    <div id="product" class="product-info__buy option2">
                         <?php if ($options) { ?>
                             <?php foreach ($options as $option) { ?>
                                 <?php if ($option['type'] == 'select') { ?>
@@ -221,28 +219,6 @@
                                     <textarea name="text" id="input-review" class="rfield empty_field comment-form__text" placeholder="Отзыв"></textarea>
                                 </div>
                                 <button type="button" id="button-review" data-loading-text="<?php echo $text_loading; ?>" class="btnsubmit comment-form__btn">ОТПРАВИТЬ</button>
-                                <!--
-                                <div class="form-group required">
-                                    <div class="col-sm-12">
-                                        <label class="control-label"><?php echo $entry_rating; ?></label>
-                                        &nbsp;&nbsp;&nbsp; <?php echo $entry_bad; ?>&nbsp;
-                                        <input type="radio" name="rating" value="1"/>
-                                        &nbsp;
-                                        <input type="radio" name="rating" value="2"/>
-                                        &nbsp;
-                                        <input type="radio" name="rating" value="3"/>
-                                        &nbsp;
-                                        <input type="radio" name="rating" value="4"/>
-                                        &nbsp;
-                                        <input type="radio" name="rating" value="5"/>
-                                        &nbsp;<?php echo $entry_good; ?></div>
-                                </div>
-                                <?php echo $captcha; ?>
-                                <div class="buttons clearfix">
-                                    <div class="pull-right">
-                                        <button type="button" id="button-review" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary"><?php echo $button_continue; ?></button>
-                                    </div>
-                                </div>-->
                                 <?php } else { ?>
                                 <?php echo $text_login; ?>
                                 <?php } ?>
@@ -780,7 +756,8 @@
                 if (json['success']) {
                     $('.breadcrumb').after('<div class="alert alert-success">' + json['success'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
 
-                    $('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
+                    // $('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
+                    $('#cart > button').html('<span id="cart-total" class="cart-counter"> ' + json['text_count'] + '</span>');
 
                     $('html, body').animate({scrollTop: 0}, 'slow');
 

@@ -5,3 +5,4 @@ readmin.txt
 node_modules
 system/storage/cache/*
 system/storage/logs/*
+image/cache/*
