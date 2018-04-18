@@ -41,6 +41,34 @@
             </div>
         </div>
     </footer>
+<?php } elseif($error == 'informat') { ?>
+<footer class="not-found-footer">
+    <div class="container-sm">
+        <div class="not-found-footer__title">coffeeshop</div>
+        <div class="not-found-footer__partners-title">партнеры</div>
+        <div class="not-found-footer__partners-wrapper">
+            <a class="not-found-footer__partners-item" href="">
+                <img src="catalog/view/theme/default/img/partner2-404.png" alt="">
+            </a>
+            <a class="not-found-footer__partners-item" href="">
+                <img src="catalog/view/theme/default/img/partner1-404.png" alt="">
+            </a>
+        </div>
+    </div>
+</footer>
+<footer class="not-found-footer__mobile">
+    <div class="container-sm">
+        <div class="not-found-footer__mobile-inner">
+            <a class="not-found-footer__mobile-partner" href="">
+                <img src="/img/partner2-404-mobile.png" alt="">
+            </a>
+            <div class="not-found-footer__mobile-title">coffeeshop</div>
+            <a class="not-found-footer__mobile-partner" href="">
+                <img src="/img/partner1-404-mobile.png" alt="">
+            </a>
+        </div>
+    </div>
+</footer>
 <?php } else { ?>
 <footer class="static-footer">
     <div class="container-sm">

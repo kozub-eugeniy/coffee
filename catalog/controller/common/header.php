@@ -77,6 +77,7 @@ class ControllerCommonHeader extends Controller {
 
 		$data['home'] = $this->url->link('common/home');
         $data['about_reviews'] = $this->url->link('information/reviews');
+        $data['news'] = $this->url->link('information/news');
 		$data['wishlist'] = $this->url->link('account/wishlist', '', true);
 		$data['logged'] = $this->customer->isLogged();
 		$data['account'] = $this->url->link('account/account', '', true);

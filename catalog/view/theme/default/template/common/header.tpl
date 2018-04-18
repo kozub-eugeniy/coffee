@@ -341,7 +341,7 @@
                     <a class="shop-menu__link" href="">Доставка и Оплата</a>
                 </li>
                 <li class="shop-menu__item">
-                    <a class="shop-menu__link" href="">наши новости</a>
+                    <a class="shop-menu__link" href="<?php echo $news; ?>">наши новости</a>
                     <ul class="shop-submenu">
                         <li class="shop-submenu__item"><a href="">Новости магазина</a></li>
                         <li class="shop-submenu__item"><a href="">Мировые новости</a></li>
